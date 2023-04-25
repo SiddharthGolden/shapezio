@@ -4648,7 +4648,7 @@
   }
   #ingame_HUD_GameMenu > button.save,
   #ingame_HUD_GameMenu > .button.save {
-    background-image: url("https://raw.githubusercontent.com/LxtteDev/shapez/main/res/ui/icons/save.png");
+    background-image: url("https://raw.githubusercontent.com/SiddharthGolden/shapezio/main/res/ui/icons/save.png");
     grid-column: 3;
   }
   @keyframes autogen_anim_udrokua_even {
@@ -4705,7 +4705,7 @@
   }
   #ingame_HUD_GameMenu > button.settings,
   #ingame_HUD_GameMenu > .button.settings {
-    background-image: url("https://raw.githubusercontent.com/LxtteDev/shapez/main/res/ui/icons/settings.png");
+    background-image: url("https://raw.githubusercontent.com/SiddharthGolden/shapezio/main/res/ui/icons/settings.png");
     grid-column: 4;
   }
   #ingame_HUD_GameMenu > button:hover,
